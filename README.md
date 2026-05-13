@@ -2,6 +2,11 @@
 
 This repository contains an interactive Power BI project designed to track and analyze BMW's global sales performance from 2019 to 2023. The project integrates transactional data with visual assets to provide a comprehensive view of revenue trends, model popularity, and regional market penetration.
 
+OUTPUT:
+
+<img width="1329" height="749" alt="models" src="https://github.com/user-attachments/assets/af631352-90db-4727-82db-767aa617ef17" />
+<img width="1330" height="741" alt="dashboard" src="https://github.com/user-attachments/assets/a0900542-c668-416d-ab09-84714b408063" />
+
 ## 🚀 Project Overview
 
 The goal of this project is to provide a data-driven overview of BMW's sales lifecycle. By merging core sales metrics with external visual data (country flags and vehicle imagery), the dashboard offers an intuitive interface for stakeholders to identify growth opportunities and monitor dealer vs. online performance.
@@ -31,8 +36,4 @@ The main sales table includes:
 * **Geography:** Multi-level hierarchy (Region -> Country).
 * **Channel:** Distribution method.
 
-OUTPUT:
-
-<img width="1329" height="749" alt="models" src="https://github.com/user-attachments/assets/af631352-90db-4727-82db-767aa617ef17" />
-<img width="1330" height="741" alt="dashboard" src="https://github.com/user-attachments/assets/a0900542-c668-416d-ab09-84714b408063" />
 
