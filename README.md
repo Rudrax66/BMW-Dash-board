@@ -21,13 +21,6 @@ The goal of this project is to provide a data-driven overview of BMW's sales lif
 * **Product Deep-Dive:** Identify top-selling models by revenue and quantity to understand market demand.
 * **Dynamic Imagery:** The dashboard uses the `Car Images.csv` to update visuals based on the selected vehicle model.
 
-## 🛠️ How to Use
-
-1. **Download the Repository:** Clone or download all files to a local directory.
-2. **Open Power BI:** Launch the `BMW_dashboard.pbix` file using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-3. **Data Refresh:** If the data paths change, go to `Transform Data` > `Data Source Settings` and point the CSV sources to the files in your local folder.
-4. **Explore:** Use the slicers for **Year**, **Region**, and **Model** to filter the entire report dynamically.
-
 ## 📈 Data Structure
 
 The main sales table includes:
