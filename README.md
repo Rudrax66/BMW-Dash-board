@@ -30,3 +30,9 @@ The main sales table includes:
 * **Revenue/Quantity:** Core financial KPIs.
 * **Geography:** Multi-level hierarchy (Region -> Country).
 * **Channel:** Distribution method.
+
+OUTPUT:
+
+<img width="1329" height="749" alt="models" src="https://github.com/user-attachments/assets/af631352-90db-4727-82db-767aa617ef17" />
+<img width="1330" height="741" alt="dashboard" src="https://github.com/user-attachments/assets/a0900542-c668-416d-ab09-84714b408063" />
+
